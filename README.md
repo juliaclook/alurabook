@@ -10,6 +10,7 @@
  ## 🎆 Linguagens e Ferramentas utilizadas 
  * HTML 
  * CSS 
+ * JavaScript
   
  ## 🎆 Considerações finais 
  Agradeço por tirar um tempo para verificar os meus projetos! 
